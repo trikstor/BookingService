@@ -1,0 +1,50 @@
+C:\Users\azpk3\source\repos\BookingService.API\BookingService.Infrastucture\bin\Debug\netcoreapp2.1\BookingService.Infrastucture.deps.json
+C:\Users\azpk3\source\repos\BookingService.API\BookingService.Infrastucture\bin\Debug\netcoreapp2.1\BookingService.Infrastucture.dll
+C:\Users\azpk3\source\repos\BookingService.API\BookingService.Infrastucture\obj\Debug\netcoreapp2.1\BookingService.Infrastucture.csprojAssemblyReference.cache
+C:\Users\azpk3\source\repos\BookingService.API\BookingService.Infrastucture\obj\Debug\netcoreapp2.1\BookingService.Infrastucture.csproj.CoreCompileInputs.cache
+C:\Users\azpk3\source\repos\BookingService.API\BookingService.Infrastucture\obj\Debug\netcoreapp2.1\BookingService.Infrastucture.AssemblyInfoInputs.cache
+C:\Users\azpk3\source\repos\BookingService.API\BookingService.Infrastucture\obj\Debug\netcoreapp2.1\BookingService.Infrastucture.AssemblyInfo.cs
+C:\Users\azpk3\source\repos\BookingService.API\BookingService.Infrastucture\bin\Debug\netcoreapp2.1\BookingService.Infrastucture.pdb
+C:\Users\azpk3\source\repos\BookingService.API\BookingService.Infrastucture\bin\Debug\netcoreapp2.1\BookingService.Domains.dll
+C:\Users\azpk3\source\repos\BookingService.API\BookingService.Infrastucture\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.dll
+C:\Users\azpk3\source\repos\BookingService.API\BookingService.Infrastucture\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Options.dll
+C:\Users\azpk3\source\repos\BookingService.API\BookingService.Infrastucture\bin\Debug\netcoreapp2.1\BookingService.Domains.pdb
+C:\Users\azpk3\source\repos\BookingService.API\BookingService.Infrastucture\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.xml
+C:\Users\azpk3\source\repos\BookingService.API\BookingService.Infrastucture\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Options.xml
+C:\Users\azpk3\source\repos\BookingService.API\BookingService.Infrastucture\obj\Debug\netcoreapp2.1\BookingService.Infrastucture.csproj.CopyComplete
+C:\Users\azpk3\source\repos\BookingService.API\BookingService.Infrastucture\obj\Debug\netcoreapp2.1\BookingService.Infrastucture.dll
+C:\Users\azpk3\source\repos\BookingService.API\BookingService.Infrastucture\obj\Debug\netcoreapp2.1\BookingService.Infrastucture.pdb
+C:\Users\azpk3\source\repos\Booking.API\BookingService.Infrastucture\bin\Debug\netcoreapp2.1\BookingService.Infrastucture.deps.json
+C:\Users\azpk3\source\repos\Booking.API\BookingService.Infrastucture\bin\Debug\netcoreapp2.1\BookingService.Infrastucture.dll
+C:\Users\azpk3\source\repos\Booking.API\BookingService.Infrastucture\bin\Debug\netcoreapp2.1\BookingService.Infrastucture.pdb
+C:\Users\azpk3\source\repos\Booking.API\BookingService.Infrastucture\bin\Debug\netcoreapp2.1\BookingService.Domains.dll
+C:\Users\azpk3\source\repos\Booking.API\BookingService.Infrastucture\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.dll
+C:\Users\azpk3\source\repos\Booking.API\BookingService.Infrastucture\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Options.dll
+C:\Users\azpk3\source\repos\Booking.API\BookingService.Infrastucture\bin\Debug\netcoreapp2.1\BookingService.Domains.pdb
+C:\Users\azpk3\source\repos\Booking.API\BookingService.Infrastucture\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.xml
+C:\Users\azpk3\source\repos\Booking.API\BookingService.Infrastucture\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Options.xml
+C:\Users\azpk3\source\repos\Booking.API\BookingService.Infrastucture\obj\Debug\netcoreapp2.1\BookingService.Infrastucture.csprojAssemblyReference.cache
+C:\Users\azpk3\source\repos\Booking.API\BookingService.Infrastucture\obj\Debug\netcoreapp2.1\BookingService.Infrastucture.csproj.CoreCompileInputs.cache
+C:\Users\azpk3\source\repos\Booking.API\BookingService.Infrastucture\obj\Debug\netcoreapp2.1\BookingService.Infrastucture.AssemblyInfoInputs.cache
+C:\Users\azpk3\source\repos\Booking.API\BookingService.Infrastucture\obj\Debug\netcoreapp2.1\BookingService.Infrastucture.AssemblyInfo.cs
+C:\Users\azpk3\source\repos\Booking.API\BookingService.Infrastucture\obj\Debug\netcoreapp2.1\BookingService.Infrastucture.csproj.CopyComplete
+C:\Users\azpk3\source\repos\Booking.API\BookingService.Infrastucture\obj\Debug\netcoreapp2.1\BookingService.Infrastucture.dll
+C:\Users\azpk3\source\repos\Booking.API\BookingService.Infrastucture\obj\Debug\netcoreapp2.1\BookingService.Infrastucture.pdb
+C:\Users\azpk3\source\repos\Booking.API\BookingService.Infrastucture\bin\Debug\netcoreapp2.1\BookingService.Helpers.dll
+C:\Users\azpk3\source\repos\Booking.API\BookingService.Infrastucture\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\azpk3\source\repos\Booking.API\BookingService.Infrastucture\bin\Debug\netcoreapp2.1\BookingService.Helpers.pdb
+C:\Users\azpk3\source\repos\Booking.API\BookingService.Infrastucture\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Tokens.xml
+C:\Users\azpk3\OneDrive\Рабочий стол\bookingservice\Booking.API\BookingService.Infrastucture\obj\Debug\netcoreapp2.1\BookingService.Infrastucture.csprojAssemblyReference.cache
+C:\Users\azpk3\OneDrive\Рабочий стол\bookingservice\Booking.API\BookingService.Infrastucture\obj\Debug\netcoreapp2.1\BookingService.Infrastucture.csproj.CoreCompileInputs.cache
+C:\Users\azpk3\OneDrive\Рабочий стол\bookingservice\Booking.API\BookingService.Infrastucture\obj\Debug\netcoreapp2.1\BookingService.Infrastucture.AssemblyInfoInputs.cache
+C:\Users\azpk3\OneDrive\Рабочий стол\bookingservice\Booking.API\BookingService.Infrastucture\obj\Debug\netcoreapp2.1\BookingService.Infrastucture.AssemblyInfo.cs
+C:\Users\azpk3\OneDrive\Рабочий стол\bookingservice\Booking.API\BookingService.Infrastucture\obj\Debug\netcoreapp2.1\BookingService.Infrastucture.dll
+C:\Users\azpk3\OneDrive\Рабочий стол\bookingservice\Booking.API\BookingService.Infrastucture\obj\Debug\netcoreapp2.1\BookingService.Infrastucture.pdb
+C:\Users\azpk3\OneDrive\Рабочий стол\bookingservice\Booking.API\BookingService.Infrastucture\bin\Debug\netcoreapp2.1\BookingService.Infrastucture.deps.json
+C:\Users\azpk3\OneDrive\Рабочий стол\bookingservice\Booking.API\BookingService.Infrastucture\bin\Debug\netcoreapp2.1\BookingService.Infrastucture.dll
+C:\Users\azpk3\OneDrive\Рабочий стол\bookingservice\Booking.API\BookingService.Infrastucture\bin\Debug\netcoreapp2.1\BookingService.Infrastucture.pdb
+C:\Users\azpk3\OneDrive\Рабочий стол\bookingservice\Booking.API\BookingService.Infrastucture\bin\Debug\netcoreapp2.1\BookingService.Domains.dll
+C:\Users\azpk3\OneDrive\Рабочий стол\bookingservice\Booking.API\BookingService.Infrastucture\bin\Debug\netcoreapp2.1\BookingService.Helpers.dll
+C:\Users\azpk3\OneDrive\Рабочий стол\bookingservice\Booking.API\BookingService.Infrastucture\bin\Debug\netcoreapp2.1\BookingService.Domains.pdb
+C:\Users\azpk3\OneDrive\Рабочий стол\bookingservice\Booking.API\BookingService.Infrastucture\bin\Debug\netcoreapp2.1\BookingService.Helpers.pdb
+C:\Users\azpk3\OneDrive\Рабочий стол\bookingservice\Booking.API\BookingService.Infrastucture\obj\Debug\netcoreapp2.1\BookingService.Infrastucture.csproj.CopyComplete

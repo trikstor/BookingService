@@ -1,0 +1,30 @@
+C:\Users\azpk3\source\repos\BookingService.API\BookingService.Helpers\bin\Debug\netcoreapp2.1\BookingService.Helpers.deps.json
+C:\Users\azpk3\source\repos\BookingService.API\BookingService.Helpers\bin\Debug\netcoreapp2.1\BookingService.Helpers.dll
+C:\Users\azpk3\source\repos\BookingService.API\BookingService.Helpers\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.dll
+C:\Users\azpk3\source\repos\BookingService.API\BookingService.Helpers\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.xml
+C:\Users\azpk3\source\repos\BookingService.API\BookingService.Helpers\obj\Debug\netcoreapp2.1\BookingService.Helpers.csprojAssemblyReference.cache
+C:\Users\azpk3\source\repos\BookingService.API\BookingService.Helpers\obj\Debug\netcoreapp2.1\BookingService.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\azpk3\source\repos\BookingService.API\BookingService.Helpers\obj\Debug\netcoreapp2.1\BookingService.Helpers.AssemblyInfoInputs.cache
+C:\Users\azpk3\source\repos\BookingService.API\BookingService.Helpers\obj\Debug\netcoreapp2.1\BookingService.Helpers.AssemblyInfo.cs
+C:\Users\azpk3\source\repos\BookingService.API\BookingService.Helpers\obj\Debug\netcoreapp2.1\BookingService.Helpers.csproj.CopyComplete
+C:\Users\azpk3\source\repos\Booking.API\BookingService.Helpers\bin\Debug\netcoreapp2.1\BookingService.Helpers.deps.json
+C:\Users\azpk3\source\repos\Booking.API\BookingService.Helpers\bin\Debug\netcoreapp2.1\BookingService.Helpers.dll
+C:\Users\azpk3\source\repos\Booking.API\BookingService.Helpers\bin\Debug\netcoreapp2.1\BookingService.Helpers.pdb
+C:\Users\azpk3\source\repos\Booking.API\BookingService.Helpers\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.dll
+C:\Users\azpk3\source\repos\Booking.API\BookingService.Helpers\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.xml
+C:\Users\azpk3\source\repos\Booking.API\BookingService.Helpers\obj\Debug\netcoreapp2.1\BookingService.Helpers.csprojAssemblyReference.cache
+C:\Users\azpk3\source\repos\Booking.API\BookingService.Helpers\obj\Debug\netcoreapp2.1\BookingService.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\azpk3\source\repos\Booking.API\BookingService.Helpers\obj\Debug\netcoreapp2.1\BookingService.Helpers.AssemblyInfoInputs.cache
+C:\Users\azpk3\source\repos\Booking.API\BookingService.Helpers\obj\Debug\netcoreapp2.1\BookingService.Helpers.AssemblyInfo.cs
+C:\Users\azpk3\source\repos\Booking.API\BookingService.Helpers\obj\Debug\netcoreapp2.1\BookingService.Helpers.csproj.CopyComplete
+C:\Users\azpk3\source\repos\Booking.API\BookingService.Helpers\obj\Debug\netcoreapp2.1\BookingService.Helpers.dll
+C:\Users\azpk3\source\repos\Booking.API\BookingService.Helpers\obj\Debug\netcoreapp2.1\BookingService.Helpers.pdb
+C:\Users\azpk3\OneDrive\Рабочий стол\bookingservice\Booking.API\BookingService.Helpers\bin\Debug\netcoreapp2.1\BookingService.Helpers.deps.json
+C:\Users\azpk3\OneDrive\Рабочий стол\bookingservice\Booking.API\BookingService.Helpers\bin\Debug\netcoreapp2.1\BookingService.Helpers.dll
+C:\Users\azpk3\OneDrive\Рабочий стол\bookingservice\Booking.API\BookingService.Helpers\bin\Debug\netcoreapp2.1\BookingService.Helpers.pdb
+C:\Users\azpk3\OneDrive\Рабочий стол\bookingservice\Booking.API\BookingService.Helpers\obj\Debug\netcoreapp2.1\BookingService.Helpers.csprojAssemblyReference.cache
+C:\Users\azpk3\OneDrive\Рабочий стол\bookingservice\Booking.API\BookingService.Helpers\obj\Debug\netcoreapp2.1\BookingService.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\azpk3\OneDrive\Рабочий стол\bookingservice\Booking.API\BookingService.Helpers\obj\Debug\netcoreapp2.1\BookingService.Helpers.AssemblyInfoInputs.cache
+C:\Users\azpk3\OneDrive\Рабочий стол\bookingservice\Booking.API\BookingService.Helpers\obj\Debug\netcoreapp2.1\BookingService.Helpers.AssemblyInfo.cs
+C:\Users\azpk3\OneDrive\Рабочий стол\bookingservice\Booking.API\BookingService.Helpers\obj\Debug\netcoreapp2.1\BookingService.Helpers.dll
+C:\Users\azpk3\OneDrive\Рабочий стол\bookingservice\Booking.API\BookingService.Helpers\obj\Debug\netcoreapp2.1\BookingService.Helpers.pdb

@@ -1,0 +1,16 @@
+/Users/antonzotov/Desktop/bookingservice/Booking.API/Validators/bin/Debug/netcoreapp2.1/Validators.deps.json
+/Users/antonzotov/Desktop/bookingservice/Booking.API/Validators/bin/Debug/netcoreapp2.1/Validators.dll
+/Users/antonzotov/Desktop/bookingservice/Booking.API/Validators/bin/Debug/netcoreapp2.1/Validators.pdb
+/Users/antonzotov/Desktop/bookingservice/Booking.API/Validators/bin/Debug/netcoreapp2.1/Booking.Domains.dll
+/Users/antonzotov/Desktop/bookingservice/Booking.API/Validators/bin/Debug/netcoreapp2.1/Booking.Helpers.dll
+/Users/antonzotov/Desktop/bookingservice/Booking.API/Validators/bin/Debug/netcoreapp2.1/Booking.Infrastucture.dll
+/Users/antonzotov/Desktop/bookingservice/Booking.API/Validators/bin/Debug/netcoreapp2.1/Booking.Domains.pdb
+/Users/antonzotov/Desktop/bookingservice/Booking.API/Validators/bin/Debug/netcoreapp2.1/Booking.Infrastucture.pdb
+/Users/antonzotov/Desktop/bookingservice/Booking.API/Validators/bin/Debug/netcoreapp2.1/Booking.Helpers.pdb
+/Users/antonzotov/Desktop/bookingservice/Booking.API/Validators/obj/Debug/netcoreapp2.1/Validators.csprojAssemblyReference.cache
+/Users/antonzotov/Desktop/bookingservice/Booking.API/Validators/obj/Debug/netcoreapp2.1/Validators.csproj.CoreCompileInputs.cache
+/Users/antonzotov/Desktop/bookingservice/Booking.API/Validators/obj/Debug/netcoreapp2.1/Validators.AssemblyInfoInputs.cache
+/Users/antonzotov/Desktop/bookingservice/Booking.API/Validators/obj/Debug/netcoreapp2.1/Validators.AssemblyInfo.cs
+/Users/antonzotov/Desktop/bookingservice/Booking.API/Validators/obj/Debug/netcoreapp2.1/Validators.csproj.CopyComplete
+/Users/antonzotov/Desktop/bookingservice/Booking.API/Validators/obj/Debug/netcoreapp2.1/Validators.dll
+/Users/antonzotov/Desktop/bookingservice/Booking.API/Validators/obj/Debug/netcoreapp2.1/Validators.pdb

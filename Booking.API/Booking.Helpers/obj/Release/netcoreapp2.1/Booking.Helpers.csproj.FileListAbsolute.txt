@@ -1,0 +1,16 @@
+C:\Users\azpk3\OneDrive\Рабочий стол\bookingservice\Booking.API\BookingService.Helpers\bin\Release\netcoreapp2.1\Booking.Helpers.deps.json
+C:\Users\azpk3\OneDrive\Рабочий стол\bookingservice\Booking.API\BookingService.Helpers\bin\Release\netcoreapp2.1\Booking.Helpers.dll
+C:\Users\azpk3\OneDrive\Рабочий стол\bookingservice\Booking.API\BookingService.Helpers\bin\Release\netcoreapp2.1\Booking.Helpers.pdb
+C:\Users\azpk3\OneDrive\Рабочий стол\bookingservice\Booking.API\BookingService.Helpers\obj\Release\netcoreapp2.1\Booking.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\azpk3\OneDrive\Рабочий стол\bookingservice\Booking.API\BookingService.Helpers\obj\Release\netcoreapp2.1\Booking.Helpers.AssemblyInfoInputs.cache
+C:\Users\azpk3\OneDrive\Рабочий стол\bookingservice\Booking.API\BookingService.Helpers\obj\Release\netcoreapp2.1\Booking.Helpers.AssemblyInfo.cs
+C:\Users\azpk3\OneDrive\Рабочий стол\bookingservice\Booking.API\BookingService.Helpers\obj\Release\netcoreapp2.1\Booking.Helpers.dll
+C:\Users\azpk3\OneDrive\Рабочий стол\bookingservice\Booking.API\BookingService.Helpers\obj\Release\netcoreapp2.1\Booking.Helpers.pdb
+C:\Users\azpk3\OneDrive\Рабочий стол\bookingservice\Booking.API\Booking.Helpers\bin\Release\netcoreapp2.1\Booking.Helpers.deps.json
+C:\Users\azpk3\OneDrive\Рабочий стол\bookingservice\Booking.API\Booking.Helpers\bin\Release\netcoreapp2.1\Booking.Helpers.dll
+C:\Users\azpk3\OneDrive\Рабочий стол\bookingservice\Booking.API\Booking.Helpers\bin\Release\netcoreapp2.1\Booking.Helpers.pdb
+C:\Users\azpk3\OneDrive\Рабочий стол\bookingservice\Booking.API\Booking.Helpers\obj\Release\netcoreapp2.1\Booking.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\azpk3\OneDrive\Рабочий стол\bookingservice\Booking.API\Booking.Helpers\obj\Release\netcoreapp2.1\Booking.Helpers.AssemblyInfoInputs.cache
+C:\Users\azpk3\OneDrive\Рабочий стол\bookingservice\Booking.API\Booking.Helpers\obj\Release\netcoreapp2.1\Booking.Helpers.AssemblyInfo.cs
+C:\Users\azpk3\OneDrive\Рабочий стол\bookingservice\Booking.API\Booking.Helpers\obj\Release\netcoreapp2.1\Booking.Helpers.dll
+C:\Users\azpk3\OneDrive\Рабочий стол\bookingservice\Booking.API\Booking.Helpers\obj\Release\netcoreapp2.1\Booking.Helpers.pdb

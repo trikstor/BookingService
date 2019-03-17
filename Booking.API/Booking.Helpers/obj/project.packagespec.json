@@ -1,0 +1,59 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/antonzotov/Desktop/bookingservice/Booking.API/Booking.Helpers/Booking.Helpers.csproj",
+    "projectName": "Booking.Helpers",
+    "projectPath": "/Users/antonzotov/Desktop/bookingservice/Booking.API/Booking.Helpers/Booking.Helpers.csproj",
+    "outputPath": "/Users/antonzotov/Desktop/bookingservice/Booking.API/Booking.Helpers/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "Microsoft.Extensions.Options": {
+          "target": "Package",
+          "version": "[2.1.1, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        },
+        "MongoDB.Driver": {
+          "target": "Package",
+          "version": "[2.7.2, )"
+        },
+        "System.IdentityModel.Tokens.Jwt": {
+          "target": "Package",
+          "version": "[5.3.0, )"
+        },
+        "log4net": {
+          "target": "Package",
+          "version": "[2.0.8, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

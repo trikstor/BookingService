@@ -1,0 +1,38 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Options" Version="2.1.1" />
+    <PackageReference Include="MongoDB.Driver" Version="2.7.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Booking.Helpers\Booking.Helpers.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Microsoft.IdentityModel.Tokens">
+      <HintPath>..\..\..\..\..\..\Program Files\dotnet\sdk\NuGetFallbackFolder\microsoft.identitymodel.tokens\5.2.0\lib\netstandard1.4\Microsoft.IdentityModel.Tokens.dll</HintPath>
+    </Reference>
+    <Reference Include="Booking.Infrastucture">
+      <HintPath>..\Booking.Infrastucture\bin\Debug\netcoreapp2.1\Booking.Infrastucture.dll</HintPath>
+    </Reference>
+    <Reference Include="Booking.Infrastucture">
+      <HintPath>..\Booking.Infrastucture\bin\Debug\netcoreapp2.1\Booking.Infrastucture.dll</HintPath>
+    </Reference>
+    <Reference Include="Booking.Infrastucture">
+      <HintPath>..\Booking.Infrastucture\bin\Debug\netcoreapp2.1\Booking.Infrastucture.dll</HintPath>
+    </Reference>
+    <Reference Include="Booking.Infrastucture">
+      <HintPath>..\Booking.Infrastucture\bin\Debug\netcoreapp2.1\Booking.Infrastucture.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="CustomValidators\DatesIntervalChecker.cs" />
+    <Compile Remove="ClientModels\ClientModel.cs" />
+  </ItemGroup>
+</Project>

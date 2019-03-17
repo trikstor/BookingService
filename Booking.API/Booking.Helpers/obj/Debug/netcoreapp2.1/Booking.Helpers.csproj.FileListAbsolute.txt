@@ -1,0 +1,27 @@
+C:/Users/azpk3/OneDrive/Рабочий стол/bookingservice/Booking.API/BookingService.Helpers/bin/Debug/netcoreapp2.1/Booking.Helpers.deps.json
+C:/Users/azpk3/OneDrive/Рабочий стол/bookingservice/Booking.API/BookingService.Helpers/bin/Debug/netcoreapp2.1/Booking.Helpers.dll
+C:/Users/azpk3/OneDrive/Рабочий стол/bookingservice/Booking.API/BookingService.Helpers/bin/Debug/netcoreapp2.1/Booking.Helpers.pdb
+C:/Users/azpk3/OneDrive/Рабочий стол/bookingservice/Booking.API/BookingService.Helpers/obj/Debug/netcoreapp2.1/Booking.Helpers.csprojAssemblyReference.cache
+C:/Users/azpk3/OneDrive/Рабочий стол/bookingservice/Booking.API/BookingService.Helpers/obj/Debug/netcoreapp2.1/Booking.Helpers.csproj.CoreCompileInputs.cache
+C:/Users/azpk3/OneDrive/Рабочий стол/bookingservice/Booking.API/BookingService.Helpers/obj/Debug/netcoreapp2.1/Booking.Helpers.AssemblyInfoInputs.cache
+C:/Users/azpk3/OneDrive/Рабочий стол/bookingservice/Booking.API/BookingService.Helpers/obj/Debug/netcoreapp2.1/Booking.Helpers.AssemblyInfo.cs
+C:/Users/azpk3/OneDrive/Рабочий стол/bookingservice/Booking.API/BookingService.Helpers/obj/Debug/netcoreapp2.1/Booking.Helpers.dll
+C:/Users/azpk3/OneDrive/Рабочий стол/bookingservice/Booking.API/BookingService.Helpers/obj/Debug/netcoreapp2.1/Booking.Helpers.pdb
+C:/Users/azpk3/OneDrive/Рабочий стол/bookingservice/Booking.API/Booking.Helpers/bin/Debug/netcoreapp2.1/Booking.Helpers.deps.json
+C:/Users/azpk3/OneDrive/Рабочий стол/bookingservice/Booking.API/Booking.Helpers/bin/Debug/netcoreapp2.1/Booking.Helpers.dll
+C:/Users/azpk3/OneDrive/Рабочий стол/bookingservice/Booking.API/Booking.Helpers/bin/Debug/netcoreapp2.1/Booking.Helpers.pdb
+C:/Users/azpk3/OneDrive/Рабочий стол/bookingservice/Booking.API/Booking.Helpers/obj/Debug/netcoreapp2.1/Booking.Helpers.csproj.CoreCompileInputs.cache
+C:/Users/azpk3/OneDrive/Рабочий стол/bookingservice/Booking.API/Booking.Helpers/obj/Debug/netcoreapp2.1/Booking.Helpers.AssemblyInfoInputs.cache
+C:/Users/azpk3/OneDrive/Рабочий стол/bookingservice/Booking.API/Booking.Helpers/obj/Debug/netcoreapp2.1/Booking.Helpers.AssemblyInfo.cs
+C:/Users/azpk3/OneDrive/Рабочий стол/bookingservice/Booking.API/Booking.Helpers/obj/Debug/netcoreapp2.1/Booking.Helpers.dll
+C:/Users/azpk3/OneDrive/Рабочий стол/bookingservice/Booking.API/Booking.Helpers/obj/Debug/netcoreapp2.1/Booking.Helpers.pdb
+C:/Users/azpk3/OneDrive/Рабочий стол/bookingservice/Booking.API/Booking.Helpers/obj/Debug/netcoreapp2.1/Booking.Helpers.csprojAssemblyReference.cache
+/Users/antonzotov/Desktop/bookingservice/Booking.API/Booking.Helpers/bin/Debug/netcoreapp2.1/Booking.Helpers.deps.json
+/Users/antonzotov/Desktop/bookingservice/Booking.API/Booking.Helpers/bin/Debug/netcoreapp2.1/Booking.Helpers.dll
+/Users/antonzotov/Desktop/bookingservice/Booking.API/Booking.Helpers/bin/Debug/netcoreapp2.1/Booking.Helpers.pdb
+/Users/antonzotov/Desktop/bookingservice/Booking.API/Booking.Helpers/obj/Debug/netcoreapp2.1/Booking.Helpers.csproj.CoreCompileInputs.cache
+/Users/antonzotov/Desktop/bookingservice/Booking.API/Booking.Helpers/obj/Debug/netcoreapp2.1/Booking.Helpers.AssemblyInfoInputs.cache
+/Users/antonzotov/Desktop/bookingservice/Booking.API/Booking.Helpers/obj/Debug/netcoreapp2.1/Booking.Helpers.AssemblyInfo.cs
+/Users/antonzotov/Desktop/bookingservice/Booking.API/Booking.Helpers/obj/Debug/netcoreapp2.1/Booking.Helpers.dll
+/Users/antonzotov/Desktop/bookingservice/Booking.API/Booking.Helpers/obj/Debug/netcoreapp2.1/Booking.Helpers.pdb
+/Users/antonzotov/Desktop/bookingservice/Booking.API/Booking.Helpers/obj/Debug/netcoreapp2.1/Booking.Helpers.csprojAssemblyReference.cache
