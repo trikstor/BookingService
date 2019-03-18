@@ -1,10 +1,12 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Booking.Domains\Booking.Domains.csproj" />
+    <ProjectReference Include="..\Booking.Infrastucture\Booking.Infrastucture.csproj" />
   </ItemGroup>
 
 </Project>

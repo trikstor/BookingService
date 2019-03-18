@@ -2,7 +2,6 @@
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using System.Threading.Tasks;
 
 namespace Booking.Domains.ClientModels
 {
@@ -25,7 +24,8 @@ namespace Booking.Domains.ClientModels
                 OrgName = OrgName,
                 Email = Email,
                 Phone = Phone,
-                Password = Cryptography.SaltPassword(Password)
+                //TODO
+                Password = Cryptography.SaltPassword(Password, "salt")
             };
         }
 

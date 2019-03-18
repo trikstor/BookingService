@@ -1,11 +1,7 @@
-﻿using Booking.Domains.ClientModels;
+﻿using System;
 using MongoDB.Bson.Serialization.Attributes;
-using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.Threading.Tasks;
 
-namespace Booking.Domains
+namespace Booking.Domains.Filters
 {
     public class ReservationFilter : IFilter
     {

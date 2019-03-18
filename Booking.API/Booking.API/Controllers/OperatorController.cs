@@ -17,7 +17,6 @@ namespace Booking.API.Controllers
     {
         private readonly Configuration config;
         private readonly OperatorDbProvider dbProvider;
-        private static readonly ILog log = LogManager.GetLogger(MethodBase.GetCurrentMethod().DeclaringType);
 
         public OperatorController(IOptions<Configuration> config)
         {
@@ -61,7 +60,8 @@ namespace Booking.API.Controllers
             };
 
             var res = await dbProvider.ReadModel(filter).ConfigureAwait(false);
-            if (res.Count == 0 || res.First().Password != Cryptography.SaltPassword(password))
+            //TODO
+            if (res.Count == 0 || res.First().Password != Cryptography.SaltPassword(password, "salt"))
                 return NotFound("Пользователь с такими реквизитами не найден");
 
             var encodedJwt = JwtHelpers.IssueToken(config.AppName, config.AppUrl, email, config.AuthLifetimeInHours, config.JwtTokenSecret);

@@ -23,7 +23,7 @@
     <ProjectReference Include="..\Booking.Domains\Booking.Domains.csproj" />
     <ProjectReference Include="..\Booking.Helpers\Booking.Helpers.csproj" />
     <ProjectReference Include="..\Booking.Infrastucture\Booking.Infrastucture.csproj" />
-    <ProjectReference Include="..\Validators\Validators.csproj" />
+    <ProjectReference Include="..\Validators\Booking.Validators.csproj" />
   </ItemGroup>
 
 </Project>

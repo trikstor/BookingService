@@ -1,7 +1,4 @@
-﻿using Microsoft.IdentityModel.Tokens;
-using System.Text;
-
-namespace Booking.Infrastucture
+﻿namespace Booking.Infrastucture
 {
     public class Configuration
     {

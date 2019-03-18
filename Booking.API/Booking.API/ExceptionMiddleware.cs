@@ -4,28 +4,28 @@ using System;
 using System.Net;
 using System.Reflection;
 using System.Threading.Tasks;
+using Booking.Infrastucture;
 
 namespace Booking.API
 {
     public class ExceptionMiddleware
     {
-        private readonly RequestDelegate _next;
-        private static readonly ILog log = LogManager.GetLogger(MethodBase.GetCurrentMethod().DeclaringType);
+        private readonly RequestDelegate next;
 
         public ExceptionMiddleware(RequestDelegate next)
         {
-            _next = next;
+            this.next = next;
         }
 
         public async Task Invoke(HttpContext context)
         {
             try
             {
-                await _next(context);
+                await next(context);
             }
             catch (Exception ex)
             {
-                log.Error($"Request body: {context.Request.Body}\n Error: {ex.Message}");
+                Logger.Log.Error($"Request body: {context.Request.Body}\n Error: {ex.Message}");
                 context.Response.ContentType = "text/plain";
                 context.Response.StatusCode = (int)HttpStatusCode.InternalServerError;
 

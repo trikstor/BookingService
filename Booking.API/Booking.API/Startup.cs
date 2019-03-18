@@ -64,8 +64,8 @@ namespace Booking.API
             loggerFactory.AddLog4Net("Claslog4net.config");
             app.UseHttpsRedirection();
             app.UseAuthentication();
-            app.UseMiddleware<ExceptionMiddleware>();
             app.UseMvc();
+            app.UseMiddleware<ExceptionMiddleware>();
         }
     }
 }

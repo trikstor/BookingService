@@ -12,20 +12,6 @@ C:/Users/azpk3/OneDrive/Рабочий стол/bookingservice/Booking.API/Booki
 C:/Users/azpk3/OneDrive/Рабочий стол/bookingservice/Booking.API/BookingService.Infrastucture/obj/Debug/netcoreapp2.1/Booking.Infrastucture.csproj.CopyComplete
 C:/Users/azpk3/OneDrive/Рабочий стол/bookingservice/Booking.API/BookingService.Infrastucture/obj/Debug/netcoreapp2.1/Booking.Infrastucture.dll
 C:/Users/azpk3/OneDrive/Рабочий стол/bookingservice/Booking.API/BookingService.Infrastucture/obj/Debug/netcoreapp2.1/Booking.Infrastucture.pdb
-C:/Users/azpk3/OneDrive/Рабочий стол/bookingservice/Booking.API/Booking.Infrastucture/bin/Debug/netcoreapp2.1/Booking.Infrastucture.deps.json
-C:/Users/azpk3/OneDrive/Рабочий стол/bookingservice/Booking.API/Booking.Infrastucture/bin/Debug/netcoreapp2.1/Booking.Infrastucture.dll
-C:/Users/azpk3/OneDrive/Рабочий стол/bookingservice/Booking.API/Booking.Infrastucture/bin/Debug/netcoreapp2.1/Booking.Infrastucture.pdb
-C:/Users/azpk3/OneDrive/Рабочий стол/bookingservice/Booking.API/Booking.Infrastucture/bin/Debug/netcoreapp2.1/Booking.Domains.dll
-C:/Users/azpk3/OneDrive/Рабочий стол/bookingservice/Booking.API/Booking.Infrastucture/bin/Debug/netcoreapp2.1/Booking.Helpers.dll
-C:/Users/azpk3/OneDrive/Рабочий стол/bookingservice/Booking.API/Booking.Infrastucture/bin/Debug/netcoreapp2.1/Booking.Domains.pdb
-C:/Users/azpk3/OneDrive/Рабочий стол/bookingservice/Booking.API/Booking.Infrastucture/bin/Debug/netcoreapp2.1/Booking.Helpers.pdb
-C:/Users/azpk3/OneDrive/Рабочий стол/bookingservice/Booking.API/Booking.Infrastucture/obj/Debug/netcoreapp2.1/Booking.Infrastucture.csprojAssemblyReference.cache
-C:/Users/azpk3/OneDrive/Рабочий стол/bookingservice/Booking.API/Booking.Infrastucture/obj/Debug/netcoreapp2.1/Booking.Infrastucture.csproj.CoreCompileInputs.cache
-C:/Users/azpk3/OneDrive/Рабочий стол/bookingservice/Booking.API/Booking.Infrastucture/obj/Debug/netcoreapp2.1/Booking.Infrastucture.AssemblyInfoInputs.cache
-C:/Users/azpk3/OneDrive/Рабочий стол/bookingservice/Booking.API/Booking.Infrastucture/obj/Debug/netcoreapp2.1/Booking.Infrastucture.AssemblyInfo.cs
-C:/Users/azpk3/OneDrive/Рабочий стол/bookingservice/Booking.API/Booking.Infrastucture/obj/Debug/netcoreapp2.1/Booking.Infrastucture.csproj.CopyComplete
-C:/Users/azpk3/OneDrive/Рабочий стол/bookingservice/Booking.API/Booking.Infrastucture/obj/Debug/netcoreapp2.1/Booking.Infrastucture.dll
-C:/Users/azpk3/OneDrive/Рабочий стол/bookingservice/Booking.API/Booking.Infrastucture/obj/Debug/netcoreapp2.1/Booking.Infrastucture.pdb
 /Users/antonzotov/Desktop/bookingservice/Booking.API/Booking.Infrastucture/bin/Debug/netcoreapp2.1/Booking.Infrastucture.deps.json
 /Users/antonzotov/Desktop/bookingservice/Booking.API/Booking.Infrastucture/bin/Debug/netcoreapp2.1/Booking.Infrastucture.dll
 /Users/antonzotov/Desktop/bookingservice/Booking.API/Booking.Infrastucture/bin/Debug/netcoreapp2.1/Booking.Infrastucture.pdb
@@ -40,3 +26,17 @@ C:/Users/azpk3/OneDrive/Рабочий стол/bookingservice/Booking.API/Booki
 /Users/antonzotov/Desktop/bookingservice/Booking.API/Booking.Infrastucture/obj/Debug/netcoreapp2.1/Booking.Infrastucture.csproj.CopyComplete
 /Users/antonzotov/Desktop/bookingservice/Booking.API/Booking.Infrastucture/obj/Debug/netcoreapp2.1/Booking.Infrastucture.dll
 /Users/antonzotov/Desktop/bookingservice/Booking.API/Booking.Infrastucture/obj/Debug/netcoreapp2.1/Booking.Infrastucture.pdb
+C:\Users\azpk3\OneDrive\Рабочий стол\BookingService\Booking.API\Booking.Infrastucture\bin\Debug\netcoreapp2.1\Booking.Infrastucture.deps.json
+C:\Users\azpk3\OneDrive\Рабочий стол\BookingService\Booking.API\Booking.Infrastucture\bin\Debug\netcoreapp2.1\Booking.Infrastucture.dll
+C:\Users\azpk3\OneDrive\Рабочий стол\BookingService\Booking.API\Booking.Infrastucture\bin\Debug\netcoreapp2.1\Booking.Infrastucture.pdb
+C:\Users\azpk3\OneDrive\Рабочий стол\BookingService\Booking.API\Booking.Infrastucture\bin\Debug\netcoreapp2.1\Booking.Domains.dll
+C:\Users\azpk3\OneDrive\Рабочий стол\BookingService\Booking.API\Booking.Infrastucture\bin\Debug\netcoreapp2.1\Booking.Helpers.dll
+C:\Users\azpk3\OneDrive\Рабочий стол\BookingService\Booking.API\Booking.Infrastucture\bin\Debug\netcoreapp2.1\Booking.Domains.pdb
+C:\Users\azpk3\OneDrive\Рабочий стол\BookingService\Booking.API\Booking.Infrastucture\bin\Debug\netcoreapp2.1\Booking.Helpers.pdb
+C:\Users\azpk3\OneDrive\Рабочий стол\BookingService\Booking.API\Booking.Infrastucture\obj\Debug\netcoreapp2.1\Booking.Infrastucture.csprojAssemblyReference.cache
+C:\Users\azpk3\OneDrive\Рабочий стол\BookingService\Booking.API\Booking.Infrastucture\obj\Debug\netcoreapp2.1\Booking.Infrastucture.csproj.CoreCompileInputs.cache
+C:\Users\azpk3\OneDrive\Рабочий стол\BookingService\Booking.API\Booking.Infrastucture\obj\Debug\netcoreapp2.1\Booking.Infrastucture.AssemblyInfoInputs.cache
+C:\Users\azpk3\OneDrive\Рабочий стол\BookingService\Booking.API\Booking.Infrastucture\obj\Debug\netcoreapp2.1\Booking.Infrastucture.AssemblyInfo.cs
+C:\Users\azpk3\OneDrive\Рабочий стол\BookingService\Booking.API\Booking.Infrastucture\obj\Debug\netcoreapp2.1\Booking.Infrastucture.csproj.CopyComplete
+C:\Users\azpk3\OneDrive\Рабочий стол\BookingService\Booking.API\Booking.Infrastucture\obj\Debug\netcoreapp2.1\Booking.Infrastucture.dll
+C:\Users\azpk3\OneDrive\Рабочий стол\BookingService\Booking.API\Booking.Infrastucture\obj\Debug\netcoreapp2.1\Booking.Infrastucture.pdb

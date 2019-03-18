@@ -1,4 +1,4 @@
-﻿namespace Booking.Domains
+﻿namespace Booking.Domains.Filters
 {
     public interface IFilter
     {

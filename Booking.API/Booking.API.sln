@@ -16,7 +16,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Booking.Infrastucture", "Bo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Booking.Domains", "Booking.Domains\Booking.Domains.csproj", "{E03F880C-B565-466F-95A7-EFC95EAD06DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validators", "Validators\Validators.csproj", "{71A598B8-0E01-4AC9-98FF-38EECF743AF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Booking.Validators", "Validators\Booking.Validators.csproj", "{71A598B8-0E01-4AC9-98FF-38EECF743AF2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

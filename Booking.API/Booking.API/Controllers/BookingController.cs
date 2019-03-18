@@ -11,7 +11,7 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
-using Validators;
+using Booking.Validators;
 
 namespace Booking.API.Controllers
 {
@@ -26,8 +26,8 @@ namespace Booking.API.Controllers
         ReservationDbProvider reservationDbProvider, 
         HisoryRecordDbProvider historyRecordDbProvider)
         {
-            this.reservationsDbProvider = reservationDbProvider;
-            this.historyDbProvider = historyRecordDbProvider;
+            reservationsDbProvider = reservationDbProvider;
+            historyDbProvider = historyRecordDbProvider;
         }
 
         [Authorize]
@@ -80,14 +80,11 @@ namespace Booking.API.Controllers
             };
             var result = await reservationsDbProvider.Delete(filter).ConfigureAwait(false);
 
-            if (result)
-            {
-                var historyRecord = new HistoryRecord(ActionTypes.DeleteReservation, id, DateTime.Now);
-                await historyDbProvider.WriteModel(historyRecord).ConfigureAwait(false);
+            if (!result) return NotFound();
+            var historyRecord = new HistoryRecord(ActionTypes.DeleteReservation, id, DateTime.Now);
+            await historyDbProvider.WriteModel(historyRecord).ConfigureAwait(false);
 
-                return Ok();
-            }
-            return NotFound();
+            return Ok();
         }
 
         [Authorize]

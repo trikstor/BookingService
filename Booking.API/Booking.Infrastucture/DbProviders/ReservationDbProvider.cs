@@ -1,5 +1,4 @@
-﻿using Booking.Domains;
-using Booking.Domains.ClientModels;
+﻿using Booking.Domains.ClientModels;
 using Booking.Domains.Filters;
 using Microsoft.Extensions.Options;
 using MongoDB.Bson;
@@ -21,7 +20,7 @@ namespace Booking.Infrastucture.DbProviders
         public override async Task<bool> Delete(IFilter filter)
         {
             var reservations = await Read(collectionName, filter).ConfigureAwait(false);
-            if(reservations.Count == 0)
+            if (reservations.Count == 0)
                 return false;
 
             var bson = reservations.First();
@@ -31,7 +30,7 @@ namespace Booking.Infrastucture.DbProviders
             return await Update(collectionName, filter, reservationDTO.ToBsonDocument()).ConfigureAwait(false);
         }
 
-        public async override Task WriteModel(Reservation doc)
+        public override async Task WriteModel(Reservation doc)
         {
             var dto = doc.GetDTO();
 
@@ -39,11 +38,11 @@ namespace Booking.Infrastucture.DbProviders
             await Write(collectionName, dto.Item2.ToBsonDocument()).ConfigureAwait(false);
         }
 
-        public async override Task<IList<Reservation>> ReadModel(IFilter filter)
+        public override async Task<IList<Reservation>> ReadModel(IFilter filter)
         {
             var result = new List<Reservation>();
             var bsons = await Read(collectionName, filter).ConfigureAwait(false);
-            foreach(var bson in bsons)
+            foreach (var bson in bsons)
             {
                 var reservationDTO = BsonSerializer.Deserialize<Domains.DTO.Reservation>(bson);
                 Console.WriteLine(reservationDTO.Day);

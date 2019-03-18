@@ -1,4 +1,4 @@
-﻿using Booking.Domains;
+﻿using Booking.Domains.Filters;
 using Microsoft.Extensions.Options;
 using MongoDB.Bson;
 using MongoDB.Driver;
@@ -7,11 +7,11 @@ using System.Threading.Tasks;
 
 namespace Booking.Infrastucture.DbProviders
 {
-    public abstract class DbProvider<T, Tdto> : IDbProvider
+    public abstract class DbProvider<T, TDto> : IDbProvider
     {
         protected IMongoDatabase db { get; }
 
-        public DbProvider(IOptions<Configuration> config)
+        protected DbProvider(IOptions<Configuration> config)
         {
             var settings = new MongoClientSettings
             {
@@ -31,10 +31,10 @@ namespace Booking.Infrastucture.DbProviders
             await collection.InsertOneAsync(reservation).ConfigureAwait(false);
         }
 
-        protected async Task<IList<Tdto>> Read(string collectionName, IFilter filter)
+        protected async Task<IList<TDto>> Read(string collectionName, IFilter filter)
         {
-            var result = new List<Tdto>();
-            var collection = db.GetCollection<Tdto>(collectionName);
+            var result = new List<TDto>();
+            var collection = db.GetCollection<TDto>(collectionName);
 
             using (var cursor = await collection.FindAsync(filter.ToBsonDocument()).ConfigureAwait(false))
             {
@@ -60,11 +60,11 @@ namespace Booking.Infrastucture.DbProviders
             return result.DeletedCount == 1;
         }
 
-        protected async Task<bool> Update(string collectionName, IFilter filter, Tdto dto)
+        protected async Task<bool> Update(string collectionName, IFilter filter, TDto dto)
         {
             var collection = db.GetCollection<BsonDocument>(collectionName);
             var result = await collection.UpdateOneAsync(filter.ToBsonDocument(), dto.ToBsonDocument()).ConfigureAwait(false);
-           
+
             return result.ModifiedCount > 0;
         }
 

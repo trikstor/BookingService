@@ -1,5 +1,4 @@
-﻿using MongoDB.Bson;
-using MongoDB.Bson.Serialization.Attributes;
+﻿using MongoDB.Bson.Serialization.Attributes;
 using System;
 
 namespace Booking.Domains.Filters
@@ -12,8 +11,8 @@ namespace Booking.Domains.Filters
         [BsonIgnoreIfNull]
         public string Email
         {
-            get { return email; }
-            set { email = value.ToLower(); }
+            get => email;
+            set => email = value.ToLower();
         }
         [BsonIgnoreIfNull]
         public string Phone { get; set; }

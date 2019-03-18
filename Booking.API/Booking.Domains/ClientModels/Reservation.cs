@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using System.Threading.Tasks;
 
 namespace Booking.Domains.ClientModels
 {
@@ -12,11 +11,11 @@ namespace Booking.Domains.ClientModels
         public string Name { get; set; }
         public string Surname { get; set; }
         [Required]
-        [RegularExpression(@"^([\w\.\-]+)@([\w\-]+)((\.(\w){2,3})+)$", 
+        [RegularExpression(@"^([\w\.\-]+)@([\w\-]+)((\.(\w){2,3})+)$",
             ErrorMessage = "Некорректный форма адреса электронной почты")]
         public string Email { get; set; }
         [Required]
-        [RegularExpression(@"^\+[2-9]\d{11}$", 
+        [RegularExpression(@"^\+[2-9]\d{11}$",
             ErrorMessage = "Номер телефона должен иметь формат +xxxxxxxxxxx")]
         public string Phone { get; set; }
 

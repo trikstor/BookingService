@@ -1,20 +1,16 @@
-C:\Users\azpk3\source\repos\Booking.API\Booking.Validators\bin\Debug\netcoreapp2.1\Booking.Validators.deps.json
-C:\Users\azpk3\source\repos\Booking.API\Booking.Validators\bin\Debug\netcoreapp2.1\Booking.Validators.dll
-C:\Users\azpk3\source\repos\Booking.API\Booking.Validators\bin\Debug\netcoreapp2.1\Booking.Validators.pdb
-C:\Users\azpk3\source\repos\Booking.API\Booking.Validators\bin\Debug\netcoreapp2.1\BookingService.Domains.dll
-C:\Users\azpk3\source\repos\Booking.API\Booking.Validators\bin\Debug\netcoreapp2.1\BookingService.Helpers.dll
-C:\Users\azpk3\source\repos\Booking.API\Booking.Validators\bin\Debug\netcoreapp2.1\BookingService.Infrastucture.dll
-C:\Users\azpk3\source\repos\Booking.API\Booking.Validators\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Tokens.dll
-C:\Users\azpk3\source\repos\Booking.API\Booking.Validators\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Options.dll
-C:\Users\azpk3\source\repos\Booking.API\Booking.Validators\bin\Debug\netcoreapp2.1\BookingService.Domains.pdb
-C:\Users\azpk3\source\repos\Booking.API\Booking.Validators\bin\Debug\netcoreapp2.1\BookingService.Infrastucture.pdb
-C:\Users\azpk3\source\repos\Booking.API\Booking.Validators\bin\Debug\netcoreapp2.1\BookingService.Helpers.pdb
-C:\Users\azpk3\source\repos\Booking.API\Booking.Validators\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Tokens.xml
-C:\Users\azpk3\source\repos\Booking.API\Booking.Validators\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Options.xml
-C:\Users\azpk3\source\repos\Booking.API\Booking.Validators\obj\Debug\netcoreapp2.1\Booking.Validators.csprojAssemblyReference.cache
-C:\Users\azpk3\source\repos\Booking.API\Booking.Validators\obj\Debug\netcoreapp2.1\Booking.Validators.csproj.CoreCompileInputs.cache
-C:\Users\azpk3\source\repos\Booking.API\Booking.Validators\obj\Debug\netcoreapp2.1\Booking.Validators.AssemblyInfoInputs.cache
-C:\Users\azpk3\source\repos\Booking.API\Booking.Validators\obj\Debug\netcoreapp2.1\Booking.Validators.AssemblyInfo.cs
-C:\Users\azpk3\source\repos\Booking.API\Booking.Validators\obj\Debug\netcoreapp2.1\Booking.Validators.csproj.CopyComplete
-C:\Users\azpk3\source\repos\Booking.API\Booking.Validators\obj\Debug\netcoreapp2.1\Booking.Validators.dll
-C:\Users\azpk3\source\repos\Booking.API\Booking.Validators\obj\Debug\netcoreapp2.1\Booking.Validators.pdb
+C:\Users\azpk3\OneDrive\Рабочий стол\BookingService\Booking.API\Validators\bin\Debug\netcoreapp2.1\Booking.Validators.deps.json
+C:\Users\azpk3\OneDrive\Рабочий стол\BookingService\Booking.API\Validators\bin\Debug\netcoreapp2.1\Booking.Validators.dll
+C:\Users\azpk3\OneDrive\Рабочий стол\BookingService\Booking.API\Validators\bin\Debug\netcoreapp2.1\Booking.Validators.pdb
+C:\Users\azpk3\OneDrive\Рабочий стол\BookingService\Booking.API\Validators\bin\Debug\netcoreapp2.1\Booking.Domains.dll
+C:\Users\azpk3\OneDrive\Рабочий стол\BookingService\Booking.API\Validators\bin\Debug\netcoreapp2.1\Booking.Helpers.dll
+C:\Users\azpk3\OneDrive\Рабочий стол\BookingService\Booking.API\Validators\bin\Debug\netcoreapp2.1\Booking.Infrastucture.dll
+C:\Users\azpk3\OneDrive\Рабочий стол\BookingService\Booking.API\Validators\bin\Debug\netcoreapp2.1\Booking.Domains.pdb
+C:\Users\azpk3\OneDrive\Рабочий стол\BookingService\Booking.API\Validators\bin\Debug\netcoreapp2.1\Booking.Infrastucture.pdb
+C:\Users\azpk3\OneDrive\Рабочий стол\BookingService\Booking.API\Validators\bin\Debug\netcoreapp2.1\Booking.Helpers.pdb
+C:\Users\azpk3\OneDrive\Рабочий стол\BookingService\Booking.API\Validators\obj\Debug\netcoreapp2.1\Booking.Validators.csprojAssemblyReference.cache
+C:\Users\azpk3\OneDrive\Рабочий стол\BookingService\Booking.API\Validators\obj\Debug\netcoreapp2.1\Booking.Validators.csproj.CoreCompileInputs.cache
+C:\Users\azpk3\OneDrive\Рабочий стол\BookingService\Booking.API\Validators\obj\Debug\netcoreapp2.1\Booking.Validators.AssemblyInfoInputs.cache
+C:\Users\azpk3\OneDrive\Рабочий стол\BookingService\Booking.API\Validators\obj\Debug\netcoreapp2.1\Booking.Validators.AssemblyInfo.cs
+C:\Users\azpk3\OneDrive\Рабочий стол\BookingService\Booking.API\Validators\obj\Debug\netcoreapp2.1\Booking.Validators.csproj.CopyComplete
+C:\Users\azpk3\OneDrive\Рабочий стол\BookingService\Booking.API\Validators\obj\Debug\netcoreapp2.1\Booking.Validators.dll
+C:\Users\azpk3\OneDrive\Рабочий стол\BookingService\Booking.API\Validators\obj\Debug\netcoreapp2.1\Booking.Validators.pdb

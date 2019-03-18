@@ -1,8 +1,7 @@
-﻿using Booking.Domains;
-using Booking.Domains.ClientModels;
+﻿using Booking.Domains.ClientModels;
+using Booking.Domains.Filters;
 using Microsoft.Extensions.Options;
 using MongoDB.Bson;
-using MongoDB.Bson.Serialization;
 using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
